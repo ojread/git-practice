@@ -24,7 +24,7 @@ Most of the points below should be implemented in a separate feature branch and 
 - Create content pages that dynamically include the template parts
 	- home page
 	- team members section
-		- a sub page for yourself of us with any content you like
+		- a sub page for yourself with any content you like
 	- christmas page with a countdown using JS
 		- extend and reuse this code to show multiple countdowns
 		- on team pages have a countdown to birthdays
